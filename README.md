@@ -20,7 +20,7 @@
 
 | Wallhack (ESP) в действии | Меню в консоли |
 | :-----------------------: | :---------------: |
-| <img width="1908" height="1079" alt="image" src="https://github.com/user-attachments/assets/2cd3ae5c-145e-4760-8e4f-67011023448b" /> | <img width="1352" height="807" alt="image" src="https://github.com/user-attachments/assets/104e731e-fd11-428e-b47f-c68d8483a341" />
+| <img width="1352" height="807" alt="image" src="https://github.com/user-attachments/assets/2cd3ae5c-145e-4760-8e4f-67011023448b" /> | <img width="1352" height="807" alt="image" src="https://github.com/user-attachments/assets/104e731e-fd11-428e-b47f-c68d8483a341" />
 
 ---
 
@@ -94,3 +94,9 @@ Wallhack работает у всех, так как он лишь читает 
 Этот проект создан в образовательных целях и для развлечения в частном порядке. Использование его на публичных серверах или для получения нечестного преимущества над другими игроками не одобряется. Используйте на свой страх и риск.
 
 Спонсор меню: @hostvless_bot
+
+## Дополнительные фото
+<img width="1302" height="683" alt="image" src="https://github.com/user-attachments/assets/94eef708-68f6-4d7e-b7d3-2042424bf0fc" />
+<img width="1318" height="680" alt="image" src="https://github.com/user-attachments/assets/a95aad6f-be7a-4cd9-9b89-7553da73ba6f" />
+
+
